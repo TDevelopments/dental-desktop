@@ -45,7 +45,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(360, 149);
+            this.label2.Location = new System.Drawing.Point(290, 114);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(29, 13);
             this.label2.TabIndex = 1;
@@ -53,11 +53,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(352, 242);
+            this.button1.Location = new System.Drawing.Point(293, 177);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(111, 23);
             this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
+            this.button1.Text = "Hola que hace";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
@@ -69,6 +69,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
