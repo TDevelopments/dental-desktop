@@ -74,6 +74,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -87,6 +88,72 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Persones 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Setting 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weight 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HomeBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonesBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WeightBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CircleBackWhite 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CircleBackWhite 32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List 30x30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text 30x30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List 25x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text 25x25.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
