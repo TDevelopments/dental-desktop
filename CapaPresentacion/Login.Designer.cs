@@ -1,6 +1,6 @@
 ﻿namespace dental_desktop
 {
-    partial class frmLogin
+    partial class Login
     {
         /// <summary>
         /// Variable del diseñador necesaria.

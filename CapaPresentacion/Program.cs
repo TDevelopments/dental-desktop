@@ -16,7 +16,7 @@ namespace dental_desktop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLogin());
+            Application.Run(new Login());
         }
     }
 }
